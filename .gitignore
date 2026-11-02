@@ -1,0 +1,39 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+.git_upstream_backup/
+
+# Log files
+*.log
+links.log
+tester.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Java / Maven
+target/
+*.class
+
+# Environment files
+.env
+.env.local
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo

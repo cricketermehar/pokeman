@@ -1,0 +1,150 @@
+{
+  "orderId": "ORD-005",
+  "createdAt": "2026-10-23T10:28:32.903Z",
+  "requestedCount": 20,
+  "completedCount": 20,
+  "status": "COMPLETED",
+  "csvFile": "/Users/tronyx/pokeman go automation/KinanCity/kinancity-playwright/orders/ORD-005.csv",
+  "accounts": [
+    {
+      "username": "AutoUser01rb3z",
+      "email": "autouser01_rb3z@example.com",
+      "password": "AutoPass01!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "10.24"
+    },
+    {
+      "username": "AutoUser02j860",
+      "email": "autouser02_j860@example.com",
+      "password": "AutoPass02!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "6.69"
+    },
+    {
+      "username": "AutoUser03pxsn",
+      "email": "autouser03_pxsn@example.com",
+      "password": "AutoPass03!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "17.15"
+    },
+    {
+      "username": "AutoUser04njzu",
+      "email": "autouser04_njzu@example.com",
+      "password": "AutoPass04!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "7.36"
+    },
+    {
+      "username": "AutoUser05q5yc",
+      "email": "autouser05_q5yc@example.com",
+      "password": "AutoPass05!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "5.70"
+    },
+    {
+      "username": "AutoUser06pd87",
+      "email": "autouser06_pd87@example.com",
+      "password": "AutoPass06!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "6.03"
+    },
+    {
+      "username": "AutoUser07kt6p",
+      "email": "autouser07_kt6p@example.com",
+      "password": "AutoPass07!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "11.83"
+    },
+    {
+      "username": "AutoUser0866o5",
+      "email": "autouser08_66o5@example.com",
+      "password": "AutoPass08!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "14.54"
+    },
+    {
+      "username": "AutoUser09euf7",
+      "email": "autouser09_euf7@example.com",
+      "password": "AutoPass09!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "5.92"
+    },
+    {
+      "username": "AutoUser1041f5",
+      "email": "autouser10_41f5@example.com",
+      "password": "AutoPass10!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "5.35"
+    },
+    {
+      "username": "AutoUser11b5h8",
+      "email": "autouser11_b5h8@example.com",
+      "password": "AutoPass11!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "5.61"
+    },
+    {
+      "username": "AutoUser1240n6",
+      "email": "autouser12_40n6@example.com",
+      "password": "AutoPass12!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "9.83"
+    },
+    {
+      "username": "AutoUser1354v2",
+      "email": "autouser13_54v2@example.com",
+      "password": "AutoPass13!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "14.41"
+    },
+    {
+      "username": "AutoUser14ao6v",
+      "email": "autouser14_ao6v@example.com",
+      "password": "AutoPass14!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "7.00"
+    },
+    {
+      "username": "AutoUser15s3lh",
+      "email": "autouser15_s3lh@example.com",
+      "password": "AutoPass15!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "6.22"
+    },
+    {
+      "username": "AutoUser16gioy",
+      "email": "autouser16_gioy@example.com",
+      "password": "AutoPass16!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "18.09"
+    },
+    {
+      "username": "AutoUser1707wq",
+      "email": "autouser17_07wq@example.com",
+      "password": "AutoPass17!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "8.32"
+    },
+    {
+      "username": "AutoUser18nqp9",
+      "email": "autouser18_nqp9@example.com",
+      "password": "AutoPass18!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "5.42"
+    },
+    {
+      "username": "AutoUser19wv7t",
+      "email": "autouser19_wv7t@example.com",
+      "password": "AutoPass19!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "5.22"
+    },
+    {
+      "username": "AutoUser20r6pm",
+      "email": "autouser20_r6pm@example.com",
+      "password": "AutoPass20!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "12.55"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "kinancity-playwright",
+  "version": "2.0.0",
+  "description": "Enterprise-grade TypeScript + Playwright automation framework for authorized account workflow testing",
+  "main": "dist/runner.js",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist logs/screenshots/* logs/traces/*",
+    "start": "ts-node src/runner.ts",
+    "runner": "ts-node src/runner.ts",
+    "test": "playwright test",
+    "test:unit": "playwright test tests/unit",
+    "test:integration": "playwright test tests/integration",
+    "test:e2e": "playwright test tests/e2e",
+    "test:report": "playwright show-report",
+    "testbed": "ts-node fixtures/test-app/server.ts",
+    "start:fixture": "ts-node fixtures/test-app/server.ts",
+    "batch": "ts-node src/scripts/createBatchAccounts.ts",
+    "create:batch": "ts-node src/scripts/createBatchAccounts.ts",
+    "session:proton": "ts-node src/scripts/initProtonSession.ts",
+    "init:proton": "ts-node src/scripts/initProtonSession.ts"
+  },
+  "keywords": [
+    "playwright",
+    "typescript",
+    "testing",
+    "automation",
+    "qa"
+  ],
+  "author": "KinanCity Modernization Team",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.48.2",
+    "winston": "^3.15.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^20.17.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}

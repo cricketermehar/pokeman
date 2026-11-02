@@ -1,0 +1,39 @@
+{
+  "orderId": "ORD-001",
+  "createdAt": "2026-10-23 14:45:00",
+  "requestedCount": 5,
+  "completedCount": 5,
+  "status": "COMPLETED",
+  "accounts": [
+    {
+      "username": "AutoUser01c7yf",
+      "password": "AutoPass01!99",
+      "email": "autouser01_c7yf@example.com",
+      "status": "ACTIVATED"
+    },
+    {
+      "username": "AutoUser02w059",
+      "password": "AutoPass02!99",
+      "email": "autouser02_w059@example.com",
+      "status": "ACTIVATED"
+    },
+    {
+      "username": "AutoUser03p5vt",
+      "password": "AutoPass03!99",
+      "email": "autouser03_p5vt@example.com",
+      "status": "ACTIVATED"
+    },
+    {
+      "username": "AutoUser04r25i",
+      "password": "AutoPass04!99",
+      "email": "autouser04_r25i@example.com",
+      "status": "ACTIVATED"
+    },
+    {
+      "username": "AutoUser05a7vw",
+      "password": "AutoPass05!99",
+      "email": "autouser05_a7vw@example.com",
+      "status": "ACTIVATED"
+    }
+  ]
+}

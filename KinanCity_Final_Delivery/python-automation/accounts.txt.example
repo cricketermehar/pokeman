@@ -1,0 +1,15 @@
+# accounts.txt.example — Template for KinanCity Account Queue
+# Copy this file to accounts.txt and add your credentials:
+#   cp accounts.txt.example accounts.txt
+#
+# FORMAT: username:password   (one per line)
+#
+# Rules:
+#   - Username: 6–16 alphanumeric characters (PTC requirement)
+#   - Password: 8+ characters with uppercase, lowercase, number, and symbol
+#   - Lines starting with # are comments and are skipped
+#   - Blank lines are skipped
+#
+# Examples (replace with real accounts in accounts.txt):
+# TrainerJason01:YourP@ssw0rd1
+# TrainerJason02:YourP@ssw0rd2

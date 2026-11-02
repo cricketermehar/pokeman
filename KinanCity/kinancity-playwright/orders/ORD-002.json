@@ -1,0 +1,21 @@
+{
+  "orderId": "ORD-002",
+  "createdAt": "2026-10-23 15:00:00",
+  "requestedCount": 2,
+  "completedCount": 2,
+  "status": "COMPLETED",
+  "accounts": [
+    {
+      "username": "AutoUser01m5gx",
+      "password": "AutoPass01!99",
+      "email": "autouser01_m5gx@example.com",
+      "status": "ACTIVATED"
+    },
+    {
+      "username": "AutoUser02sofc",
+      "password": "AutoPass02!99",
+      "email": "autouser02_sofc@example.com",
+      "status": "ACTIVATED"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+/target/
+/bin/
+
+*.log
+
+KinanCity-captcha-ImageTypers/config\.properties
+
+KinanCity-captcha-AntiCaptcha/config\.properties
+
+KinanCity-mail/config\.properties
+
+result.csv
+release.properties
+pom.xml.releaseBackup
+
+# Module build targets
+**/target/
+dependency-reduced-pom.xml
+**/dependency-reduced-pom.xml
+
+# Python automation — NEVER commit credentials or runtime state
+python-automation/accounts.txt
+python-automation/queue_state.json
+python-automation/logs/
+python-automation/__pycache__/
+python-automation/**/__pycache__/
+python-automation/*.pyc
+
+# KinanCity-mail accounts
+KinanCity-mail/accounts.csv
+
+# Credential dumps
+dump/
+links.log

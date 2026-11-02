@@ -1,0 +1,26 @@
+[
+  {
+    "username": "TrainerJason01",
+    "state": "COMPLETED",
+    "retries": 0,
+    "max_retries": 3,
+    "queued_at": 1792712628.800834,
+    "last_updated_at": 1792712628.813121,
+    "completed_at": 1792712628.813123,
+    "last_error": null,
+    "activation_waited_s": 0.0,
+    "notes": ""
+  },
+  {
+    "username": "TrainerJason02",
+    "state": "COMPLETED",
+    "retries": 0,
+    "max_retries": 3,
+    "queued_at": 1792712628.800844,
+    "last_updated_at": 1792712628.816016,
+    "completed_at": 1792712628.8160179,
+    "last_error": null,
+    "activation_waited_s": 0.0,
+    "notes": ""
+  }
+]
