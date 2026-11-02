@@ -1,0 +1,45 @@
+{
+  "orderId": "ORD-6419",
+  "createdAt": "2026-11-02T15:05:23.267Z",
+  "requestedCount": 5,
+  "completedCount": 5,
+  "status": "COMPLETED",
+  "csvFile": "/Users/tronyx/pokeman go automation/KinanCity/kinancity-playwright/orders/ORD-6419.csv",
+  "accounts": [
+    {
+      "username": "AutoUser01fmjw",
+      "email": "autouser01_fmjw@example.com",
+      "password": "AutoPass01!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "2.97"
+    },
+    {
+      "username": "AutoUser028ad8",
+      "email": "autouser02_8ad8@example.com",
+      "password": "AutoPass02!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "2.02"
+    },
+    {
+      "username": "AutoUser03mw21",
+      "email": "autouser03_mw21@example.com",
+      "password": "AutoPass03!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "1.99"
+    },
+    {
+      "username": "AutoUser047xzu",
+      "email": "autouser04_7xzu@example.com",
+      "password": "AutoPass04!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "1.82"
+    },
+    {
+      "username": "AutoUser0540mr",
+      "email": "autouser05_40mr@example.com",
+      "password": "AutoPass05!99",
+      "status": "ACTIVATED",
+      "durationSeconds": "1.93"
+    }
+  ]
+}
