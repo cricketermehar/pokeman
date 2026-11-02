@@ -1,0 +1,37 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Environment and sensitive files
+.env
+*.pem
+*.key
+
+# Session tokens and cookies (HIGH SECURITY - NEVER COMMIT)
+sessions/*.json
+!sessions/.gitkeep
+
+# Diagnostic screenshots and traces
+screenshots/*.png
+!screenshots/.gitkeep
+
+# Runtime logs and PID tracking
+logs/*.log
+logs/*.pid
+!logs/.gitkeep
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
