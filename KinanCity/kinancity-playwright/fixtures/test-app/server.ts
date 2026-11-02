@@ -60,11 +60,11 @@ export function startTestApp(port: number = 3000): Promise<TestAppServer> {
             
             <!-- Simulated Sandbox Challenge Container -->
             <div id="captcha-container" class="g-recaptcha" data-sitekey="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI">
-              <textarea name="g-recaptcha-response" id="g-recaptcha-response" style="display:none;">SANDBOX_TOKEN_PASSED</textarea>
+              <textarea name="g-recaptcha-response" id="g-recaptcha-response" style="display:none;"></textarea>
               <button type="button" id="sandbox-solve-btn" onclick="document.getElementById('g-recaptcha-response').value='SANDBOX_TOKEN_PASSED'; document.getElementById('status-msg').innerText='✅ Challenge Auto-Verified (Sandbox)';">
-                [Sandbox] Verified Automatically
+                [Sandbox] Solve Challenge
               </button>
-              <span id="status-msg" style="color: green; margin-left: 10px; font-weight: bold;">✅ Challenge Auto-Verified (Sandbox)</span>
+              <span id="status-msg" style="color: red; margin-left: 10px; font-weight: bold;">⚠️ Pending Verification</span>
             </div><br/>
 
             <button type="submit" id="submit-btn">Register Account</button>
